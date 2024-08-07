@@ -1,4 +1,4 @@
-<h1 align="center">Aaron Mathew's Crib </h1>
+<h1 align="center"> Aaron Mathew's Crib </h1>
 <h3 align="center">I want to contribute my skills in Open Sourcing and I like fixing others problems ;)</h3>
 <img align="right" alt="Coding" width="400"src="https://gifsec.com/wp-content/uploads/2022/09/hello-gif-30.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geeruz&label=Profile%20views&color=0e75b6&style=flat" alt="geeruz" /> </p>
