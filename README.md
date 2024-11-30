@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400"src="https://gifsec.com/wp-content/uploads/2022/09/hello-gif-30.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geeruz&label=Profile%20views&color=0e75b6&style=flat" alt="geeruz" /> </p>
 
-- 🌱 I’m currently learning **Cloud Computing Services(AWS) and System level programming(C++)**
+- 🌱 I’m currently learning **Cloud Computing Services(AWS) and Software Development**
 
 - 📝 I regularly write articles on [https://medium.com/@AaronMat](https://medium.com/@AaronMat)
 
